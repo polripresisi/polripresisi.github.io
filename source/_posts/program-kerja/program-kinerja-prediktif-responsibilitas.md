@@ -31,16 +31,56 @@ Dengan ETLE semua penindakan hukum lalu lintas menggunakan mesin. Tujuan E-TLE s
 
 • Propam Presisi : Merupakan aplikasi yang dapat digunakan oleh masyarakat apabila ingin mengadukan terkait pelanggaran atau ketidakpuasan atas kinerja anggota atau pegawai negeri sipil (PNS) di lingkungan Polri.
 
-• SP2P Online dan E-PPNS :  SP2HP online dan e-PPNS merupakan salah satu bentuk penjabaran dari program prioritas Kapolri. 
+• SP2P Online dan E-PPNS :  SP2HP online dan e-PPNS merupakan salah satu bentuk penjabaran dari program prioritas Kapolri.
 
 Kapolri Jenderal Listyo Sigit Prabowo meluncurkan aplikasi SP2HP (Surat Pemberitahuan Perkembangan Hasil Penyidikan) online dan e-PPNS (Penyidik Pegawai Negeri Sipil) SP2HP merupakan bentuk akuntabilitas dan transparansi penyelidikan atau penyidikan yang dilakukan Polri. SP2HP merupakan layanan POLRI yang memberikan informasi kepada masyarakat tentang perkembangan penanganan tindak pidana yang dilaporkan. Melalui SP2HP dan e-PPNS ini masyarakat menjadi lebih mudah untuk mendapatkan informasi terkait sejauh mana hasil perkembangan perkara yang ditangani oleh POLRI.
 
 • Polisi Virtual : Dihadirkannya Police Virtual dalam dunia Siber dapat mencegah terjadinya kejahatan serta mencegah tindak pidana UU ITE . Polisi Virtual akan memberikan edukasi kepada masyarakat terkait UU Informasi dan Transaksi Elektronik (ITE). Polisi virtual tersebut akan berpatroli di dunia maya untuk menegur masyarakat pengguna media sosial jika ada potensi potensi UU ITE. Dalam artian masyarakat juga semakin paham bagaimana bermedia sosial yang baik, mengfungsikan teknologi secara positif.
 
-• Polri tv dan Radio : Merupakan aplikasi kepolisian. Polri TV dan Radio ini supaya Anggota Polri bisa memberikan edukasi kepada masyarakat dan informasi terkait dengan pelayanan kepolisian yang saat ini sedang berlaku. 
+• Polri tv dan Radio : Merupakan aplikasi kepolisian. Polri TV dan Radio ini supaya Anggota Polri bisa memberikan edukasi kepada masyarakat dan informasi terkait dengan pelayanan kepolisian yang saat ini sedang berlaku.
 
 • Binmas Online : Merupakan aplikasi yang bisa dimanfaatkan atau digunakan baik secara internal ataupun eksternal. Aplikasi ini dapat diakses oleh masyarakat yang memerlukan pelayanan Polri. Khususnya Bhabinkamtibmas melalui Aplikasi Binmas Aparat yang dapat di Download di Play Store.
 
 • Command 110 : Layanan Polisi 110 diluncurkan untuk menjadikan sebuah wadah komunikasi antara masyarakat dengan Polri untuk menjembatani berbagai keluhan, laporan dan pengaduan dari masyarakat kepada Polres/Polsek/Polda setempat.
 
-Beberapa Program Unggulan Polri yang diberlakukan dalam masa jabatan Jendral Listyo Sigit Prabowo ini dihadirkan di tengah masyarakat supaya memberikan rasa kenyamanan serta keamanan. Dan merupakan pendekatan antara anggota polisi dengan masyarakat untuk bekerja sama menjaga keamanan di lingkungan sekitar. Dalam artian masyarakat dapat mengadu kepada pihak kepolisian jika ada masalah dalam lingkungan nya dan polisi akan segera bertindak.
+Beberapa Program Unggulan Polri yang diberlakukan dalam masa jabatan Jendral Listyo Sigit Prabowo ini dihadirkan di tengah masyarakat supaya memberikan rasa kenyamanan serta keamanan. Dan merupakan pendekatan antara anggota polisi dengan masyarakat untuk bekerja sama menjaga keamanan di lingkungan sekitar. Dalam artian masyarakat dapat mengadu kepada pihak kepolisian jika ada masalah dalam lingkungan nya dan polisi akan segera bertindak. Selain Program Unggulan Kapolri, juga dihadirkan 16 Program Prioritas Kapolri.
+
+![](https://res.cloudinary.com/bimagv/image/upload/v1623558159/Polri%20Presisi/Program-Kapolri_nlqyoj.jpg)
+
+Kapolri Jenderal Listyo Sigit Prabowo juga menghadirkan program prioritas guna tingkatkan kualitas pelayanan kepolisian di Indonesia. Simak 16 Program Prioritas Kapolri! .
+
+16 Program Prioritas Kapolri, di antaranya :
+
+1\. Penataan Kelembagaan
+
+2\. Perubahan Sistem dan Metode Organisasi
+
+3\. Menjadikan SDM Polri yang Unggul di Era Police 4.0
+
+4\. Perubahan Teknologi Kepolisian Modern di Era Police 4.0
+
+5\. Pemantapan Kinerja Pemeliharaan Kamtibmas
+
+6\. Peningkatan Kinerja Penegakan Hukum
+
+7\. Pemantapan Dukungan Polri dalam Penanganan Covid-19
+
+8\. Pemulihan Ekonomi Nasional
+
+9\. Program Menjamin Keamanan Prioritas Nasional
+
+10\. Penguatan Penanganan Konflik Sosial
+
+11\. Peningkatan Kualitas Pelayanan Publik Polri
+
+12\. Mewujudkan Pelayanan Publik Polri yang Terintegrasi
+
+13\. Pemantapan Komunikasi Publik
+
+14\. Pengawasan Pimpinan Terhadap Setiap Kegiatan
+
+15\. Penguatan Fungsi Pengawasan
+
+16\. Pengawasan oleh Masyarakat Pencari Keadilan
+
+Dilansir dari akun sosial media @divisihumaspolri . Dari 16 Program Prioritas Kapolri ini salah satunya menyangkut soal pengawasan Oleh masyarakat pencari keadilan. Beberapa aplikasi yang diluncurkan Polri kini masyarakat dapat menggunakannya dengan baik dan tepat.
