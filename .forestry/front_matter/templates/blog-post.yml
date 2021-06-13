@@ -1,0 +1,29 @@
+---
+label: Blog Post
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: type
+  label: type
+  default: post
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: date
+  label: date
+- name: draft
+  type: boolean
+  label: draft
+  default: false
+- type: tag_list
+  name: categories
+  label: categories
+- type: tag_list
+  name: tags
+  label: tags
+pages:
