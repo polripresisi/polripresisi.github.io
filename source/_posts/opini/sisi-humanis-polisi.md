@@ -11,8 +11,6 @@ tags:
 ---
 > Dalam bertugas polisi tidak mengenal waktu, dan selalu berusaha memberikan pelayanan prima kepada masyarakat. polisi harus siap siaga baik itu saat bertugas maupun tidak bertugas.
 
-## Pendahuluan
-
 ![](https://res.cloudinary.com/bimagv/image/upload/v1622964520/Polri%20Presisi/sisi-humanis-polisi-amankan-pemilu-2019_vmdiht.jpg)
 
 Polisi manusia biasa? ya. Polisi sama seperti masyarakat pada umumnya hanya saja berbeda karena suatu tugas. Polisi merupakan sahabat masyarakat. "Siap, Tegas, Humanis" itulah polisi.
