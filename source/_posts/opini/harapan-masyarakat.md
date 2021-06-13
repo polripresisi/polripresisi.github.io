@@ -1,18 +1,19 @@
 ---
 title: Harapan Masyarakat
-date: 2019-02-14 12:00:00
+date: 2019-02-14T12:00:00.000+00:00
 author: blinkfox
 img: https://statics.sh1a.qingstor.com/2019/02/14/stalker.jpg
 cover: true
 categories: 后端
 tags:
-  - Java
-  - 性能测试
+- Java
+- 性能测试
+
 ---
 
-blablabl
+![](https://res.cloudinary.com/bimagv/image/upload/v1622964502/Polri%20Presisi/sisi-humanis-polisi-2-polwan-solo-bagi-bunga-hari-kartini_h9sydg.jpg)
 
-> asdasd
+Harapan Masyarkat Terhadap Polri
 
 Seiring waktu berjalan, banyak sudah pencapaian kinerja Kapolri dan seluruh Anggota Polri. Tetap ada harapan masyarakat untuk pihak kepolisian baik itu Kapolri beserta jajarannya. Berdasarkan wawancara yang kami lakukan terhadap beberapa masyarakat, harapan itu sama. Beberapa hasil yang kami dapatkan dari wawancara tersebut yakni :
 "Harapan saya buat kepolisian/kapolri beserta anggota lainnya semoga kedepannya semakin semangat dalam bertugas, kapan pun dan dimana pun,lebih jujur dalam menangani sebuah kasus,dan adil terhadap yang benar. Jangan lupa untuk terus berpihak pada aturan yang benar." Ucap salah satu masyarakat.
