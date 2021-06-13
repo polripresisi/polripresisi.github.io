@@ -1,13 +1,12 @@
 ---
 title: Harapan Masyarakat
-date: 2019-02-14T12:00:00.000+00:00
-author: blinkfox
+date: 
+author: ''
 img: https://statics.sh1a.qingstor.com/2019/02/14/stalker.jpg
 cover: true
-categories: 后端
+categories: []
 tags:
-- Java
-- 性能测试
+- harapan
 
 ---
 
