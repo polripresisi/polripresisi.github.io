@@ -4,7 +4,8 @@ date:
 author: ''
 img: https://res.cloudinary.com/bimagv/image/upload/v1622964502/Polri%20Presisi/sisi-humanis-polisi-2-polwan-solo-bagi-bunga-hari-kartini_h9sydg.jpg
 cover: true
-categories: []
+categories:
+- opini
 tags:
 - harapan
 
