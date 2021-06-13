@@ -5,11 +5,6 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
   path: source/_posts/opini
   label: postingan opini
   create: all
@@ -17,11 +12,6 @@ sections:
 - type: directory
   path: source/_posts/program-kerja
   label: Postingan program kerja
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/pages
-  label: Pages
   create: all
   match: "**/*"
 upload_dir: Polri Presisi
